@@ -6,8 +6,8 @@ Team name: 	Ch1cken_run
 
 Members of the team:
 
-Galacz Barnabás (neptun: )
-Szabó Zoltán (neptun: )
+Galacz Barnabás (neptun: D133RO)
+Szabó Zoltán (neptun: BWLQ1Y)
 Simon Zalán (neptun: IOL89K)
 
 Selected topic:
