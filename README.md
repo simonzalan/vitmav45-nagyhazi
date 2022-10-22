@@ -1,15 +1,14 @@
 # vitmav45-nagyhazi
 
-Ez a repo a Deep Learning a gyakorlatban Python és LUA alapon (BMEVITMAV45) című tárgy keretein belül elvégzendő nagyházi feladat nyomonkövethetősége miatt lött létre.
+This repository has been created to store files and notes related to the university course "Deep Learning a gyakorlatban Python és LUA alapon (BMEVITMAV45)".
 
+Team name: 	Ch1cken_run
 
-Csapatnév: 	Ch1cken_run
-
-A csapat tagjai:
+Members of the team:
 
 Galacz Barnabás (neptun: )
 Szabó Zoltán (neptun: )
 Simon Zalán (neptun: IOL89K)
 
-A vélasztott feladatunk:
-Gyártási hibás termékek azonosítása konvolúciós autoenkóderrel
+Selected topic:
+Identification of defective products with a convolutional autoencoder
