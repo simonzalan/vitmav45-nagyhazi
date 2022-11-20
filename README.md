@@ -12,3 +12,10 @@ Simon Zalán (neptun: IOL89K)
 
 Selected topic:
 Identification of defective products with a convolutional autoencoder
+
+
+Milestone 2.:
+
+There is only one file related to Milestone 2.: 'VItmav45_Nagyhazi_2_milestone.ipynb', which includes an 'Open in Colab' button.
+The code should be run until the code snippet labeled as 'Fitting the model' to complete the learning phase.
+Everything after that is evaluation, and an attempt to locate anomalies, which function will be further refined in the finished project.
