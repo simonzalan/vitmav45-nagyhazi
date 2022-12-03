@@ -8,6 +8,9 @@ Original file is located at
 
 Getting image datasets from the MVTEC website
 """
+from tensorflow.python.client import device_lib
+
+print(device_lib.list_local_devices())
 
 import os
 os.mkdir("/content")
