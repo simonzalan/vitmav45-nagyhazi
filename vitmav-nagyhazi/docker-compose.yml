@@ -1,0 +1,10 @@
+version: "3"
+services:
+  vitmav_nagyhazi-uplink:
+    # if something fails or the server is restarted, the container will restart
+    restart: always 
+    container_name: vitmav_nagyhazi-uplink
+    image: vitmav_nagyhazi-uplink
+    build: 
+      # build the vitmav_nagyhazi image from the Dockerfile in the current directory
+      context: . 
