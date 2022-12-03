@@ -10,10 +10,10 @@ Getting image datasets from the MVTEC website
 """
 
 import os
-os.system("wget https://www.mydrive.ch/shares/38536/3830184030e49fe74747669442f0f282/download/420938113-1629952094/mvtec_anomaly_detection.tar.xz -O mvtec_anomaly_detection.tar.xz")
+os.mkdir("/content/")
+os.system("wget https://www.mydrive.ch/shares/38536/3830184030e49fe74747669442f0f282/download/420938113-1629952094/mvtec_anomaly_detection.tar.xz -O mvtec_anomaly_detection.tar.xz", out="/content/")
 os.system("tar -xf mvtec_anomaly_detection.tar.xz")
 
-import os
 os.system("ls /content/")
 os.system("ls /")
 
