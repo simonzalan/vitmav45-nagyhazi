@@ -1,5 +1,7 @@
 # vitmav45-nagyhazi
 
+*We are going to have a post on twitter about the Project and the Course.
+
 This repository has been created to store files and notes of our team project related to the university course "Deep Learning a gyakorlatban Python és LUA alapon (BMEVITMAV45)".
 
 Team name: 	Ch1cken_run
