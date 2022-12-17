@@ -27,4 +27,5 @@ Everything after that is evaluation, and an attempt to locate anomalies, which f
 ## Final versions:
 
 VItmav45_Nagyhazi_vegleges.ipynb
-\nVItmav45_Nagyhazi_CNN_Final_version.ipynb
+
+VItmav45_Nagyhazi_CNN_Final_version.ipynb
