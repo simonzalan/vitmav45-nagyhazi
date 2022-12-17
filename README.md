@@ -1,7 +1,11 @@
 # vitmav45-nagyhazi
 
 ## *We are going to have a post on Medium about the Project and the Course.
-Update: link to post: https://medium.com/@xs4simon/sz%C3%A1mos-olyan-alkalmaz%C3%A1si-ter%C3%BClet-l%C3%A9tezik-ahol-olyan-fel%C3%BCgyelet-n%C3%A9lk%C3%BCli-algoritmusokra-kell-2622a1c957d8
+Update: 
+
+link to post: 
+
+https://medium.com/@xs4simon/sz%C3%A1mos-olyan-alkalmaz%C3%A1si-ter%C3%BClet-l%C3%A9tezik-ahol-olyan-fel%C3%BCgyelet-n%C3%A9lk%C3%BCli-algoritmusokra-kell-2622a1c957d8
 
 This repository has been created to store files and notes of our team project related to the university course "Deep Learning a gyakorlatban Python és LUA alapon (BMEVITMAV45)".
 
