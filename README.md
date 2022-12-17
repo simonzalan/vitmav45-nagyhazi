@@ -22,3 +22,9 @@ Identification of defective products with a convolutional autoencoder
 There is only one file related to Milestone 2.: 'VItmav45_Nagyhazi_2_milestone.ipynb', which includes an 'Open in Colab' button.
 The code should be run until the code snippet labeled as 'Fitting the model' to complete the learning phase.
 Everything after that is evaluation, and an attempt to locate anomalies, which function will be further refined in the finished project.
+
+
+## Final versions:
+
+VItmav45_Nagyhazi_vegleges.ipynb
+VItmav45_Nagyhazi_CNN_Final_version.ipynb
