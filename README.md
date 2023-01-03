@@ -32,4 +32,4 @@ Everything after that is evaluation, and an attempt to locate anomalies, which f
 
 VItmav45_Nagyhazi_vegleges_tobb_kommentel.ipynb
 
-VItmav45_Nagyhazi_CNN_Final_version.ipynb
+VItmav45_Nagyhazi_CNN_Final_version_commented.ipynb
